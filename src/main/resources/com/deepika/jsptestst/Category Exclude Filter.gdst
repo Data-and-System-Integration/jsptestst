@@ -48,7 +48,6 @@
           <header>Subcategory : data_subcategory_code equals</header>
           <constraintValueType>3</constraintValueType>
           <factField>data_subcategory_code</factField>
-          <fieldType>BigDecimal</fieldType>
           <operator>==</operator>
           <parameters/>
         </condition-column52>
@@ -58,7 +57,6 @@
           <header>Data_ppmonth &gt;</header>
           <constraintValueType>3</constraintValueType>
           <factField>data_ppmonth</factField>
-          <fieldType>BigDecimal</fieldType>
           <operator>&gt;</operator>
           <parameters/>
         </condition-column52>
@@ -73,7 +71,6 @@
           <header>test</header>
           <constraintValueType>1</constraintValueType>
           <factField>data_subcategory_code</factField>
-          <fieldType>BigDecimal</fieldType>
           <operator>==</operator>
           <parameters/>
           <binding></binding>
@@ -168,15 +165,13 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric>10</valueNumeric>
-        <valueString></valueString>
-        <dataType>NUMERIC_BIGDECIMAL</dataType>
+        <valueString>10</valueString>
+        <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric>1274002042</valueNumeric>
-        <valueString></valueString>
-        <dataType>NUMERIC_BIGDECIMAL</dataType>
+        <valueString>1274002042</valueString>
+        <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -214,15 +209,13 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric>20</valueNumeric>
-        <valueString></valueString>
-        <dataType>NUMERIC_BIGDECIMAL</dataType>
+        <valueString>20</valueString>
+        <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric>1274002042</valueNumeric>
-        <valueString></valueString>
-        <dataType>NUMERIC_BIGDECIMAL</dataType>
+        <valueString>1274002042</valueString>
+        <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -265,9 +258,8 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric>1274002042</valueNumeric>
-        <valueString></valueString>
-        <dataType>NUMERIC_BIGDECIMAL</dataType>
+        <valueString>1274002042</valueString>
+        <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
@@ -310,9 +302,8 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueNumeric>1274002043</valueNumeric>
-        <valueString></valueString>
-        <dataType>NUMERIC_BIGDECIMAL</dataType>
+        <valueString>1274002043</valueString>
+        <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
     </list>
