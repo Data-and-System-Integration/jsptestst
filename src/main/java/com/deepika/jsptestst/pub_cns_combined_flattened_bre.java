@@ -1,4 +1,4 @@
-package com.esp_cns_mon.pub_esp_cns_all_bre_panelists_rule_editing;
+package com.deepika.jsptestst;
 
 import java.math.*;
 import java.lang.Object.*;
