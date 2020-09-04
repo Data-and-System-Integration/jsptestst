@@ -43,14 +43,20 @@
       <isNegated>false</isNegated>
       <conditions>
         <condition-column52>
+          <typedDefaultValue>
+            <valueString></valueString>
+            <dataType>NUMERIC_BIGDECIMAL</dataType>
+            <isOtherwise>false</isOtherwise>
+          </typedDefaultValue>
           <hideColumn>false</hideColumn>
           <width>332</width>
           <header>Subcategory : data_subcategory_code equals</header>
-          <constraintValueType>3</constraintValueType>
+          <constraintValueType>1</constraintValueType>
           <factField>data_subcategory_code</factField>
           <fieldType>BigDecimal</fieldType>
           <operator>==</operator>
           <parameters/>
+          <binding></binding>
         </condition-column52>
         <condition-column52>
           <hideColumn>false</hideColumn>
@@ -138,8 +144,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>1274001864</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>100</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
@@ -178,8 +185,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>1274000777</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>200</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
@@ -218,8 +226,9 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
-        <valueString>1274000776</valueString>
-        <dataType>STRING</dataType>
+        <valueNumeric>300</valueNumeric>
+        <valueString></valueString>
+        <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
