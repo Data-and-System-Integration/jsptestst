@@ -175,6 +175,7 @@
         <isOtherwise>false</isOtherwise>
       </value>
       <value>
+        <valueNumeric>10</valueNumeric>
         <valueString></valueString>
         <dataType>NUMERIC_BIGDECIMAL</dataType>
         <isOtherwise>false</isOtherwise>
